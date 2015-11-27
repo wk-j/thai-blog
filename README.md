@@ -14,3 +14,5 @@
 - [http://wingyplus.tumblr.com](http://wingyplus.tumblr.com/) - Thanabodee Charoenpiriyakij
 - [http://actionablemkt.com](http://actionablemkt.com) - ศาสตร์ Marketing คือ การออกแบบพฤติกรรมผู้บริโภค
 - [https://metapon.wordpress.com](https://metapon.wordpress.com) - METAPON'S WHERE BUSINESS MEETS HAPPINESS
+
+- [http://www.fongmun.com/r/programmer](http://www.fongmun.com/r/programmer]) - คุยกันได้ทุกเรื่องที่โปรแกรมเมอร์สนใจ และ ถามได้ทุกคำถามที่เกี่ยวกับโปรแกรมมิ่ง
