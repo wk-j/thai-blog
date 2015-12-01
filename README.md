@@ -14,5 +14,6 @@
 - [http://wingyplus.tumblr.com](http://wingyplus.tumblr.com/) - Thanabodee Charoenpiriyakij
 - [http://actionablemkt.com](http://actionablemkt.com) - ศาสตร์ Marketing คือ การออกแบบพฤติกรรมผู้บริโภค
 - [https://metapon.wordpress.com](https://metapon.wordpress.com) - METAPON'S WHERE BUSINESS MEETS HAPPINESS
-- [http://www.fongmun.com/r/programmer](http://www.fongmun.com/r/programmer]) - คุยกันได้ทุกเรื่องที่โปรแกรมเมอร์สนใจ และ ถามได้ทุกคำถามที่เกี่ยวกับโปรแกรมมิ่ง
+- [http://www.fongmun.com/r/programmer](http://www.fongmun.com/r/programmer) - คุยกันได้ทุกเรื่องที่โปรแกรมเมอร์สนใจ และ ถามได้ทุกคำถามที่เกี่ยวกับโปรแกรมมิ่ง
 - [https://kitty.in.th](https://kitty.in.th) - A Just-for-Fun Website
+- [http://korn4d.com/](http://korn4d.com/) - Korn4D Agile Blog for agile being (lean, agile, scrum, buddhism, minimalism, NLP, books, and more..
