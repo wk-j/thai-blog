@@ -25,3 +25,4 @@
 - [http://www.ux.in.th](http://www.ux.in.th) - User Experience Design Engineering
 - [http://mux.in.th](http://mux.in.th) - เรื่องเล่าจากคนๆ หนึ่งที่สนใจใน UX ศาสตร์
 - [https://medium.com/@soothi](https://medium.com/@soothi) - Soothi Na-Ranong
+- [http://www.siamhtml.com/](http://www.siamhtml.com) - พวกเราทุกคนคือเว็บมาสเตอร์
