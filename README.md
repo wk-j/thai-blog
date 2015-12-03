@@ -22,6 +22,6 @@
 - [http://rath.asia](http://rath.asia/) - A doctor who codes and travels.
 - [http://startitup.in.th](http://startitup.in.th) - ริ่มกันใหม่เหอะ
 - [http://www.designil.com](http://www.designil.com) - ดีไซน์นิว
-- [http://www.ux.in.th](http://www.ux.in.th) - User Experience Design ❤️ Engineering
+- [http://www.ux.in.th](http://www.ux.in.th) - User Experience Design Engineering
 - [http://mux.in.th](http://mux.in.th) - เรื่องเล่าจากคนๆ หนึ่งที่สนใจใน UX ศาสตร์
 - [https://medium.com/@soothi](https://medium.com/@soothi) - Soothi Na-Ranong
