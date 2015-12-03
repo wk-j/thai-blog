@@ -17,4 +17,11 @@
 - [http://www.fongmun.com/r/programmer](http://www.fongmun.com/r/programmer) - คุยกันได้ทุกเรื่องที่โปรแกรมเมอร์สนใจ และ ถามได้ทุกคำถามที่เกี่ยวกับโปรแกรมมิ่ง
 - [https://kitty.in.th](https://kitty.in.th) - A Just-for-Fun Website
 - [http://korn4d.com/](http://korn4d.com/) - Korn4D Agile Blog for agile being
-- [https://medium.com/@hunt](https://medium.com/@hunt) - I’m working at Jitta.com 
+- [https://medium.com/@hunt](https://medium.com/@hunt) - I’m working at Jitta.com
+- [http://www.uiblogazine.com](http://www.uiblogazine.com/) - All about graphic interface.
+- [http://rath.asia](http://rath.asia/) - A doctor who codes and travels.
+- [http://startitup.in.th](http://startitup.in.th) - ริ่มกันใหม่เหอะ
+- [http://www.designil.com](http://www.designil.com) - ดีไซน์นิว
+- [http://www.ux.in.th/](http://www.ux.in.th) - User Experience Design ❤️ Engineering
+- [http://mux.in.th](http://mux.in.th) - เรื่องเล่าจากคนๆ หนึ่งที่สนใจใน UX ศาสตร์
+- [https://medium.com/@soothi](https://medium.com/@soothi) - Soothi Na-Ranong
