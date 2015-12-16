@@ -1,6 +1,7 @@
 
 ## Blogs
 
+* [https://medium.com/@dtinth](https://medium.com/@dtinth) - A software engineer and frontend enthusiast.
 * [http://jimmysoftwareblog.com](http://jimmysoftwareblog.com/) - JIMMY's BLOG
 * [http://nuuneoi.com/blog](http://nuuneoi.com/blog) - NUUNEOI
 * [https://medium.com/@piyorot](https://medium.com/@piyorot) - Piyorot
@@ -20,9 +21,17 @@
 * [https://medium.com/@hunt](https://medium.com/@hunt) - I’m working at Jitta.com
 * [http://www.uiblogazine.com](http://www.uiblogazine.com/) - All about graphic interface.
 * [http://rath.asia](http://rath.asia/) - A doctor who codes and travels.
-* [http://startitup.in.th](http://startitup.in.th) - ริ่มกันใหม่เหอะ
+* [http://startitup.in.th](http://startitup.in.th) - เริ่มกันใหม่เหอะ
 * [http://www.designil.com](http://www.designil.com) - ดีไซน์นิว
 * [http://www.ux.in.th](http://www.ux.in.th) - User Experience Design Engineering
 * [http://mux.in.th](http://mux.in.th) - เรื่องเล่าจากคนๆ หนึ่งที่สนใจใน UX ศาสตร์
 * [https://medium.com/@soothi](https://medium.com/@soothi) - Soothi Na-Ranong
 * [http://www.siamhtml.com](http://www.siamhtml.com) - พวกเราทุกคนคือเว็บมาสเตอร์
+* [http://www.kanouivirach.com](http://www.kanouivirach.com/about/) - Kan Ouivirach
+* [http://blog.playground-soft.com](http://blog.playground-soft.com/) - วุฒิพงศ์ วงศ์สกุลเดช
+* [http://www.choopong.com/blog](http://www.choopong.com/blog/) - เอี้ยก้วย ณ แอนฟิลด์
+* [https://visibletrap.wordpress.com](https://visibletrap.wordpress.com/) - Tap
+* [http://blog.redlinesoft.net](http://blog.redlinesoft.net/) - Anuchit's Blog
+* [http://techsauce.co](http://techsauce.co/) - Techsauce
+* [https://medium.com/@ibosz](https://medium.com/@ibosz) - I'Boss Potiwarakorn
+* [http://uxacademy.in.th/blog](http://uxacademy.in.th/blog/) - UX Academy
