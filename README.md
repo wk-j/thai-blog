@@ -35,3 +35,4 @@
 * [http://techsauce.co](http://techsauce.co/) - Techsauce
 * [https://medium.com/@ibosz](https://medium.com/@ibosz) - I'Boss Potiwarakorn
 * [http://uxacademy.in.th/blog](http://uxacademy.in.th/blog/) - UX Academy
+* [https://medium.com/@hussachai](https://medium.com/@hussachai) - By day I code for a living, by night I code for fun.
