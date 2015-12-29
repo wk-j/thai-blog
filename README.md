@@ -1,6 +1,7 @@
 
 ## Blogs
 
+* [https://sites.google.com/site/chanwit](https://sites.google.com/site/chanwit) - ชาญวิทย์ แก้วกสิ
 * [https://medium.com/@dtinth](https://medium.com/@dtinth) - A software engineer and frontend enthusiast.
 * [http://jimmysoftwareblog.com](http://jimmysoftwareblog.com/) - JIMMY's BLOG
 * [http://nuuneoi.com/blog](http://nuuneoi.com/blog) - NUUNEOI
