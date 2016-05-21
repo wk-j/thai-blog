@@ -1,6 +1,8 @@
 
 ## Blogs
 
+* [https://medium.com/@Surasuk612](https://medium.com/@Surasuk612) - Surasuk Oakkharaamonphong.
+* [https://2bedev.com](https://2bedev.com) - Do a magic, Make it possible.
 * [https://sites.google.com/site/chanwit](https://sites.google.com/site/chanwit) - ชาญวิทย์ แก้วกสิ
 * [https://medium.com/@dtinth](https://medium.com/@dtinth) - A software engineer and frontend enthusiast.
 * [http://jimmysoftwareblog.com](http://jimmysoftwareblog.com/) - JIMMY's BLOG
