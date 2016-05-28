@@ -1,6 +1,7 @@
 
 ## Blogs
 
+* [http://babelcoder.com](http://babelcoder.com) - Babel Coder เพราะนักพัฒนาไม่ได้สื่อสารแค่ภาษาเดียว.
 * [https://medium.com/@Surasuk612](https://medium.com/@Surasuk612) - Surasuk Oakkharaamonphong.
 * [https://2bedev.com](https://2bedev.com) - Do a magic, Make it possible.
 * [https://sites.google.com/site/chanwit](https://sites.google.com/site/chanwit) - ชาญวิทย์ แก้วกสิ
